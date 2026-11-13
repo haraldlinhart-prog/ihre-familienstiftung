@@ -1,0 +1,272 @@
+# Ihre Familienstiftung, ausführliche Fassung
+
+Allgemeine Information, Stand siehe jeweils die Seite. Sie ersetzt keine Beratung durch zugelassene Fachleute. Es werden keine Steuervorteile versprochen.
+
+# Was eine Familienstiftung ist
+
+URL: https://www.ihre-familienstiftung.de/familienstiftung
+
+Eine Familienstiftung ist der klassische Weg, Vermögen einer Familie auf Dauer einem Zweck zu widmen. Sie ist eine juristische Person des deutschen Rechts, kein Konto und keine Gesellschaft der Familie.
+
+## Der Begriff
+
+Das Bürgerliche Gesetzbuch kennt die Stiftung, nicht einen eigenen Typ namens Familienstiftung. Familienstiftung nennt man eine Stiftung, deren Zweck wesentlich auf die Förderung, Versorgung oder den Zusammenhalt einer Familie gerichtet ist. Daneben kann der Zweck den Erhalt eines Unternehmens oder eines Vermögensstocks umfassen, solange das Stiftungsgeschäft und die Satzung das tragen.
+Steuerrecht und Zivilrecht verwenden den Begriff nicht deckungsgleich. Für die Erbersatzsteuer kommt es darauf an, ob die Stiftung wesentlich im Interesse einer Familie oder bestimmter Familien errichtet ist. Diese Seite beschreibt die zivilrechtlichen Grundzüge und verweist bei der Steuer nur auf die Frage, die Fachleute prüfen müssen.
+
+## Wie sie entsteht
+
+Seit dem 1. Juli 2023 steht das Stiftungszivilrecht vereinheitlicht in den §§ 80 ff. des Bürgerlichen Gesetzbuchs. Die Stiftung entsteht durch das Stiftungsgeschäft und die Anerkennung der zuständigen Behörde des Landes, in dem sie ihren Sitz haben soll.
+Das Stiftungsgeschäft enthält die verbindliche Erklärung, eine Stiftung errichten zu wollen, außerdem Namen, Sitz, Zweck und Vermögen sowie die Bildung des Vorstands. Die Behörde erkennt an, wenn das Geschäft den gesetzlichen Anforderungen genügt und die dauerhafte und nachhaltige Erfüllung des Zwecks gesichert erscheint. Mit der Anerkennung ist die Stiftung rechtsfähig.
+Eine Summe, ab der sich eine Stiftung „lohnt“, nennt diese Website nicht. Ob das vorgesehene Vermögen den Zweck trägt, entscheidet die Anerkennungsbehörde im konkreten Verfahren, nicht ein Ratgeber.
+
+## Vermögen und Familie
+
+Das gewidmete Vermögen gehört der Stiftung. Es ist vom Privatvermögen der stiftenden Person getrennt. Einzelne Familienmitglieder werden nicht Eigentümer, nur weil sie zur Familie gehören. Wer etwas erhalten soll, ergibt sich aus der Satzung: die Destinatäre, also die Begünstigten nach den dort beschriebenen Regeln.
+Darin liegt der Gedanke des Zusammenhalts. Anteile am Vermögen werden nicht mit jedem Erbfall nach Köpfen verteilt. Verkauf, Belastung und Auseinandersetzung folgen den Organen und dem Zweck, nicht der Verfügung jedes einzelnen Erben. Das ist Vermögensschutz im Sinne der Zweckbindung, nicht ein Versprechen, dass Gläubiger in jedem denkbaren Fall leer ausgehen.
+Die stiftende Person kann sich in der Satzung Organrechte oder eine Begünstigtenstellung vorbehalten, soweit das Recht und die Anerkennungsbehörde das zulassen. Frei zurückholen wie von einem eigenen Konto lässt sich das Vermögen nach der Anerkennung nicht. Wer diese Endgültigkeit nicht will, braucht eine andere Ordnung und muss das vorher mit den Fachleuten klären.
+
+## Governance
+
+Pflichtorgan ist der Vorstand. Er führt die Geschäfte und vertritt die Stiftung. Die Satzung kann weitere Organe vorsehen, etwa einen Stiftungsrat, einen Familienrat oder ein Kuratorium. Üblich ist eine Trennung zwischen der laufenden Verwaltung und der Aufsicht durch die Familie.
+Gute Satzungen beantworten nüchterne Fragen. Wer bestellt und abberuft? Welche Geschäfte brauchen Zustimmung? Wie werden Begünstigte bestimmt, und was geschieht bei Streit? Wie wird die nächste Generation einbezogen, ohne dass jede Person mitentscheiden muss? Wie wird berichtet?
+Die Stiftungsbehörde führt die Aufsicht. Sie ist keine Geschäftsführung und kein Family Office. Ein Family Office kann die Stiftung bei Reporting, Auswahl der Verwalter und Koordination der Berater unterstützen. Es wird dadurch nicht selbst zum Organ, es sei denn, die Satzung weist ihm eine solche Rolle zu.
+
+## Vier Ziele, die Familien typischerweise nennen
+
+Vermögensschutz meint hier die Trennung vom privaten Direktbesitz und die Bindung an einen Zweck, der einzelne Verfügungen überdauert. Nachfolge meint Regeln, die vor dem Erbfall feststehen, statt einer Verteilung, die das Vermögen zerteilt. Zusammenhalt meint, dass der Stock als Einheit bestehen bleiben kann. Governance meint Organe, Mehrheiten und Berichtspflichten, die auch dann tragen, wenn die gründende Person nicht mehr entscheidet.
+Dieselben vier Ziele lassen sich in einer anderen Rechtsordnung mit einem Lighthouse Trust und einer Wyoming-LLC abbilden. Das ist eine funktionale Entsprechung, keine Identität. Der Vergleich stellt die Unterschiede nebeneinander.
+
+## Was eine Stiftung nicht ist
+
+Sie ist keine Gesellschaft mit Gesellschaftern, keine Versicherung und kein Steuerwerkzeug. Sie schützt nicht vor bereits entstandenen Forderungen, wenn die Übertragung anfechtbar ist. Sie befreit nicht von der Pflicht, Zweck und Vermögen so auszustatten, dass die Behörde anerkennen kann. Und sie ersetzt nicht die Menschen, die Vorstand und Kontrolle ernst nehmen.
+Wer nur eine Hülle sucht, um bekanntes Vermögen dem Zugriff zu entziehen oder Steuern nicht zu erklären, findet hier keine Anleitung. Die Stiftung setzt voraus, dass der Zweck gewollt und das Vermögen wirklich gewidmet ist.
+
+# Was ein Lighthouse Trust ist
+
+URL: https://www.ihre-familienstiftung.de/lighthouse-trust
+
+Ein Lighthouse Trust ist keine gesetzlich definierte Sonderform. Gemeint ist ein Trust, der mit der internationalen Praxis Lighthouse Trust errichtet und verwaltet wird und zusammen mit einer Wyoming-LLC die Ziele einer Familienstiftung abbildet.
+
+## Was ein Trust allgemein ist
+
+Ein Trust ist ein Institut des Common Law, nicht des deutschen Bürgerlichen Gesetzbuchs. Die errichtende Person, oft Settlor oder Grantor genannt, überträgt Vermögenswerte auf einen Trustee. Der Trustee hält und verwaltet sie nach einer Urkunde, dem Trust Deed, zugunsten der Begünstigten. Rechtstitel und wirtschaftliche Berechtigung fallen auseinander.
+Die Urkunde bestimmt, wer begünstigt ist, nach welchen Regeln ausgeschüttet wird, wer den Trustee beaufsichtigt und was bei Tod, Streit oder handlungsunfähigen Personen geschieht. Viele Statute für Asset-Protection-Trusts kennen zusätzlich einen Protector: eine Person oder Stelle, die den Trustee überwacht, ohne deshalb selbst das Vermögen zu besitzen.
+Der Trustee ist nicht Beauftragter im Sinne eines frei widerruflichen Auftrags. Er ist an die Urkunde und an das Recht des Trusts gebunden. Wie weit die errichtende Person später noch anweisen darf, steht in dieser Urkunde. Ein Trust, den man jederzeit leerräumen kann, bildet eine Stiftung nicht ab.
+
+## Was der Name Lighthouse Trust bezeichnet
+
+Lighthouse Trust ist der Name einer internationalen Praxis für Trusts und für Limited Liability Companies, die der Vermögensstrukturierung dienen. Die Praxis beschreibt ihre Arbeit öffentlich unter lighthouse-trust.com. Dazu gehört nach ihren eigenen Angaben eine Präsenz in Wyoming (Lighthouse Services USA, LLC, Sheridan) sowie weitere Büros, unter anderem mit Bezug zu Trust-Jurisdiktionen wie Nevis.
+Angaben der Praxis zu ihrer Geschichte, zu einzelnen ausländischen Gesetzen und zu Mandatsverhältnissen sind Aussagen der Praxis. Diese Website hat sie nicht nachgeprüft und übernimmt sie nicht als eigene Feststellung. Gesichert für die Leserinnen und Leser dieser Seiten ist nur das, was sich allgemein über einen Trust sagen lässt und was die Praxis selbst als ihr Tätigkeitsfeld nennt: Errichtung und Verwaltung von Trusts und von Gesellschaften, die Vermögen halten.
+PAN21 (Harald Linhart) betreibt dieses Informationsangebot und ist der Gesprächspartner für Familien, die prüfen wollen, ob eine solche Kombination zu ihren Zielen passt. Ein Mandatsverhältnis mit der Trust-Praxis entsteht nicht durch den Besuch dieser Website.
+
+## Trust und Wyoming-LLC zusammen
+
+Die hier beschriebene Ordnung hat zwei Ebenen. Die Wyoming-LLC ist die Gesellschaft, die Vermögenswerte halten kann: Beteiligungen, Konten, Forderungen oder anderes, was die Fachleute für geeignet halten. Der Trust hält die Mitgliedschaft an dieser Gesellschaft oder ist sonst so mit ihr verbunden, wie Urkunde und Gesellschaftsvertrag es vorsehen. Die Regeln für die Familie stehen im Trust, nicht in einem deutschen Stiftungsgeschäft.
+So lassen sich die vier Ziele einer Familienstiftung funktional ansprechen. Der Vermögensstock liegt nicht als Bruchteilseigentum bei jeder einzelnen Person. Ausschüttungen folgen der Urkunde. Die nächste Generation wird Begünstigte nach Regeln, nicht automatisch Miteigentümerin mit freier Verfügung. Governance liegt bei Trustee, gegebenenfalls Protector und dem Manager der Gesellschaft, mit den Kontrollrechten, die Urkunde und Operating Agreement vorsehen.
+Eine manager-managed LLC kann Eigentum und Geschäftsführung trennen: Mitglieder halten die Anteile, ein Manager führt. Das ähnelt der Trennung von Destinatären und Vorstand, ist aber gesellschaftsrechtlich und nicht stiftungsrechtlich gebaut.
+
+## Anerkennung in Deutschland
+
+Deutschland ist nicht Vertragsstaat des Haager Übereinkommens über das auf Trusts anzuwendende Recht und über ihre Anerkennung von 1985. Ein ausländischer Trust ist deshalb nicht automatisch dasselbe wie eine anerkannte deutsche Stiftung. Welche Wirkungen er vor deutschen Gerichten, Behörden und Vertragspartnern hat, hängt vom Einzelfall ab.
+Das spricht nicht pauschal gegen die Struktur. Es spricht dagegen, sie ohne Prüfung im Wohnsitzstaat und am Ort des Vermögens zu errichten. Verträge, Grundbesitz, Unternehmenssatzungen und Pflichtangebote können einer Übertragung im Weg stehen, auch wenn der Trust selbst wirksam errichtet wurde.
+
+## Grenzen, die von Anfang an dazugehören
+
+Asset-Protection-Planung, so wie seriöse Praxis sie beschreibt, richtet sich auf künftige und noch nicht bekannte Risiken. Sie ist kein Werkzeug, um eine bekannte Forderung, ein laufendes Verfahren oder eine feststehende Steuer zu unterlaufen. Übertragungen, die Gläubiger benachteiligen, können nach dem Recht des Wohnsitzstaats und nach dem Recht des Trusts anfechtbar sein.
+Kein Trust ist uneinnehmbar. Die Stärke hängt vom anwendbaren Gesetz, von der Unabhängigkeit des Trustees, von der Sauberkeit der Übertragung und davon ab, ob Banken die Vermögenswerte überhaupt halten. Diese Website beziffert keine Erfolgsquoten und nennt keine Verfahren.
+Steuerliche Folgen sind nicht Gegenstand der Strukturerzählung. Wer wissen will, ob Einkommen, Schenkung, Erbschaft oder Anzeigepflichten entstehen, braucht eine eigene steuerliche Beurteilung. Ein Versprechen, dass die Kombination „günstiger“ sei als eine Familienstiftung, gibt es hier nicht.
+
+# Warum eine LLC in Wyoming
+
+URL: https://www.ihre-familienstiftung.de/wyoming-llc
+
+Eine Wyoming-LLC ist eine Gesellschaft mit beschränkter Haftung nach dem Recht des US-Bundesstaats Wyoming. In der hier beschriebenen Ordnung hält sie Vermögen. Sie ist nicht eine deutsche GmbH und nicht eine Stiftung.
+
+## Was die Gesellschaft ist
+
+Limited Liability Company bedeutet: die Gesellschaft ist selbst Trägerin ihrer Vermögenswerte und Verträge, und die persönliche Haftung der Gesellschafter (Members) ist gesellschaftsrechtlich begrenzt. Diese Begrenzung gilt nicht für eigene Bürgschaften, für Delikt und für Fälle, in denen Gerichte die Trennung von Person und Gesellschaft nicht anerkennen, weil Formalien fehlen oder Vermögen vermischt wird.
+Das Operating Agreement regelt Anteile, Geschäftsführung, Ausschüttungen und Ausscheiden. Eine manager-managed LLC kann von einer Person geführt werden, die nicht selbst Gesellschafterin ist. Das ist der übliche Weg, wenn Eigentum und laufende Verwaltung auseinanderfallen sollen.
+Wyoming hat 1977 das erste Gesetz für Limited Liability Companies in den Vereinigten Staaten erlassen. Das heute maßgebliche Gesetz ist der Wyoming Limited Liability Company Act, W.S. 17-29-101 ff.
+
+## Charging Order
+
+W.S. 17-29-503 erlaubt einem Gericht, auf Antrag eines Urteilgläubigers eines Gesellschafters oder eines Erwerbers eine Charging Order gegen dessen übertragbaren Anteil zu erlassen. Die Gesellschaft muss dann Ausschüttungen, die sonst an diese Person gingen, an den Gläubiger zahlen. Dieselbe Vorschrift bezeichnet die Charging Order als ausschließlichen Rechtsbehelf, ausdrücklich auch dann, wenn der Schuldner der einzige Gesellschafter ist. Die Zwangsvollstreckung in den Anteil und gerichtliche Anordnungen auf Auskunft und Rechnungslegung, wie sie dem Gesellschafter selbst zustünden, stehen diesem Gläubiger nach dem Paragrafen nicht zu.
+Praktisch heißt das: der Gläubiger einer Gesellschafterin tritt nicht an deren Stelle in die Geschäftsführung ein und greift nicht unmittelbar in die Vermögenswerte der Gesellschaft. Er ist auf Ausschüttungen verwiesen, die der Manager nach dem Gesellschaftsvertrag überhaupt beschließt.
+Das ist eine Regel des Gesellschaftsrechts von Wyoming. Sie verdrängt nicht das Insolvenzrecht der Vereinigten Staaten, nicht Steuerpfandrechte des Bundes, nicht strafrechtliche Einziehung und nicht die Anfechtung von Übertragungen, die Gläubiger benachteiligen. Auch ein deutsches Gericht muss einer ausländischen Gesellschaftsform nicht in jedem Verfahren dieselbe Wirkung geben. Wer die LLC wie ein privates Durchlaufkonto führt, schwächt die Trennung, auf der die Regel beruht.
+
+## Vertraulichkeit der Register
+
+Die Articles of Organization, also die öffentliche Gründungsurkunde, müssen in Wyoming die Gesellschafter und Manager nicht namentlich aufführen. Erforderlich ist ein Registered Agent mit physischer Anschrift im Bundesstaat. Über diesen Agenten läuft die stateseitige Zustellung.
+Daraus folgt eine geringere Öffentlichkeit als in Registern, die Gesellschafterlisten auslegen. Daraus folgt keine Anonymität. Banken identifizieren die wirtschaftlich berechtigten Personen, bevor sie ein Konto führen. Gerichte können Auskunft anordnen. Finanzbehörden haben eigene Verfahren. Meldepflichten zur wirtschaftlichen Berechtigung ändern sich und sind zum jeweiligen Zeitpunkt mit den Fachleuten zu klären. Diese Website gibt den aktuellen Stand solcher Bundesregeln nicht als feststehende Tatsache aus.
+
+## Laufende staatliche Kosten
+
+Nach W.S. 17-29-209 reicht jede Wyoming-LLC jährlich einen Bericht ein und zahlt eine License Fee. Der Betrag ist 60 US-Dollar oder zwei Zehntel eines Mill, das sind 0,0002 US-Dollar je Dollar des in Wyoming belegenen Kapitals und Vermögens, je nachdem, welcher Betrag höher ist. Fällig ist das am oder vor dem ersten Tag des Monats, in dem die Gesellschaft organisiert wurde.
+Vermögen, das nicht in Wyoming belegen ist, geht in diese Bemessungsgrundlage nicht ein. Die Gebühr ist deshalb bei einer Gesellschaft, die vor allem außerhalb Wyomings hält, oft der Mindestbetrag. Das ist eine gesetzliche Rechenregel, keine Aussage über die gesamten Kosten einer Familie.
+Hinzu kommen die Vergütung des Registered Agent, die Kosten der Gründung und jede Vergütung von Trustee, Verwaltung und Beratung. Diese Website nennt dafür keine Paketpreise. Eine Gründungsgebühr des Secretary of State wird hier ebenfalls nicht beziffert, damit keine veraltete Zahl stehen bleibt.
+
+## Rolle neben dem Trust
+
+Die LLC ist die Hülle für die Vermögenswerte. Der Lighthouse Trust ist die Ordnung für die Familie. Erst zusammen entsprechen sie den Zielen, die eine Familienstiftung mit Satzung und Organen verfolgt. Eine LLC allein, deren einzige Gesellschafterin frei verfügen kann, hält Vermögen nicht über Generationen zusammen.
+Ob Konten, Beteiligungen oder andere Werte in die Gesellschaft eingebracht werden können, hängt von deren eigener Rechtslage ab. Ein Gesellschaftsvertrag eines deutschen Unternehmens, eine Zustimmungspflicht oder ein Grundbuchrecht kann der Übertragung entgegenstehen. Das wird vor der Gründung geprüft, nicht danach.
+
+## Was zur Steuer bewusst nicht gesagt wird
+
+Wyoming wird manchmal wegen seines Steuerrechts beworben. Diese Website tut das nicht. Ob eine LLC dort oder anderswo Einkommensteuer zahlt, sagt nichts über die Pflicht der wirtschaftlich berechtigten Personen in Deutschland, Österreich, der Schweiz oder einem anderen Wohnsitzstaat. Anzeigepflichten und die Zurechnung von Einkünften sind individuelle Fragen.
+Es gibt auf diesen Seiten kein Modell, das Steuern vermeidet, und keine Aussage, eine Wyoming-LLC befreie von Steuern. Wer so etwas erwartet, findet es hier nicht.
+
+# Was ein Family Office tut
+
+URL: https://www.ihre-familienstiftung.de/family-office
+
+Ein Family Office ist keine Rechtsform. Es ist die Organisation, die das Vermögen einer oder mehrerer Familien koordiniert: Berichte, Berater, Entscheidungen und die nächste Generation.
+
+## Single und Multi
+
+Ein Single Family Office arbeitet für eine Familie. Ein Multi Family Office arbeitet für mehrere Familien und teilt damit Menschen und Systeme. Die Bezeichnung ist beschreibend. Sie ersetzt keine Zulassung als Rechtsanwalt, Steuerberater oder Finanzdienstleister und sie sagt nichts darüber, welche Erlaubnis ein konkretes Büro für welche Tätigkeit braucht.
+Die Größe folgt dem Vermögen und dem Anspruch an die eigene Verwaltung, nicht einer Mindestsumme, die diese Website festlegen würde. Manche Familien bilden nur eine kleine Koordination um bestehende Berater. Andere unterhalten ein eigenes Büro mit Berichtswesen, Buchhaltung und Auswahl der Verwalter.
+
+## Was zur Arbeit gehört
+
+Üblich sind ein konsolidierter Blick auf das Vermögen, die Koordination von Recht, Steuer und Anlage, die Vorbereitung von Entscheidungen der Organe und ein Rhythmus, in dem die Familie informiert wird. Dazu kommen Fragen, die keine Bank stellt: Wer aus der nächsten Generation soll welche Rolle lernen? Welche Ausgaben trägt der Vermögensstock? Wie wird Streit beigelegt, bevor er die Struktur beschädigt?
+Das Family Office führt nicht nebenher die Aufsicht einer Stiftungsbehörde und es ist nicht der Trustee. Es kann dem Vorstand, dem Trustee oder dem Manager zuarbeiten. Die Verantwortung für Rechtshandlungen bleibt bei den Personen und Stellen, die Urkunde, Satzung oder Gesellschaftsvertrag dafür vorsehen.
+
+## Office und Rechtsstruktur
+
+Stiftung, Trust und LLC sind die rechtlichen Behälter. Das Family Office ist die Arbeitsweise daneben. Ohne Behälter bleibt das Vermögen im privaten Eigentum und wird im Erbfall nach den Regeln des Erbrechts verteilt, soweit keine anderen Verfügungen greifen. Ohne Office bleibt ein Behälter eine Urkunde, die niemand pflegt.
+Familien, die eine Familienstiftung prüfen, und Familien, die einen Lighthouse Trust mit Wyoming-LLC prüfen, brauchen beide dieselbe Klarheit: Wer berichtet, wer entscheidet, wer kontrolliert. Der Vergleich betrifft den Behälter. Die Arbeitsweise ist in beiden Fällen eine Frage der Governance, nicht der Etikette.
+
+## Für wen PAN21 das Gespräch führt
+
+PAN21 (Harald Linhart) führt dieses Informationsangebot für Family Offices, vermögende Familien und Unternehmerinnen und Unternehmer, die eine strukturierte Nachfolge prüfen. Das Gespräch ordnet Ziele und sagt, welche Fachleute als Nächstes nötig sind. Es ist keine Anlageberatung, keine Rechtsberatung und keine Steuerberatung.
+Passend ist das Gespräch, wenn Vermögen über mehr als eine Generation beisammenbleiben soll und die Familie Regeln will, bevor ein Ereignis sie erzwingt. Nicht passend ist es, wenn eine konkrete Forderung, ein laufender Rechtsstreit oder eine offene Steuerfrage abgewehrt werden soll. Dafür ist diese Struktur nicht gedacht, und ein Formular ist dafür der falsche Ort.
+
+- Unternehmerfamilien vor oder nach einem Verkauf, die den Erlös nicht in viele private Töpfe zerlegen wollen.
+- Familien mit bestehendem Family Office, die eine deutsche Stiftung und eine Trust-LLC-Ordnung nebeneinander verstehen wollen.
+- Familien, die Governance schriftlich brauchen, weil mehrere Stämme oder eine jüngere Generation mitentscheiden werden.
+
+# Familienstiftung und Trust mit Wyoming-LLC
+
+URL: https://www.ihre-familienstiftung.de/vergleich
+
+Beide Ordnungen können Vermögen zusammenhalten, Nachfolge regeln und Entscheidungen von einzelnen Personen lösen. Sie tun das in verschiedenen Rechten, mit verschiedener Aufsicht und ohne dass eine die andere steuerlich schlägt.
+
+## Wie die Tabelle zu lesen ist
+
+Die Gegenüberstellung ist allgemein. Sie ersetzt nicht die Prüfung eines Vermögens, eines Wohnsitzes oder eines Unternehmens. Wo eine Zelle auf Steuern eingeht, verweist sie auf die Pflicht zur individuellen Beratung. Sie enthält keine Vergleichsrechnung.
+„Besser“ hängt an der Frage. Wer staatliche Stiftungsaufsicht und ein Institut des deutschen Zivilrechts will, findet das bei der Stiftung. Wer die vier Ziele in einem Trust und einer US-Gesellschaft abbilden will und die Anerkennung im eigenen Land gesondert klären lässt, findet das bei der Kombination aus Lighthouse Trust und Wyoming-LLC. Beides kann nebeneinander falsch sein, wenn die Familie vor allem freie Verfügung behalten will.
+
+## Was der Vergleich nicht leistet
+
+Er sagt nicht, dass ein Trust die Erbersatzsteuer oder eine andere Steuer vermeidet. Er sagt nicht, dass Gläubiger in Wyoming generell scheitern. Er sagt nicht, dass die Gründung in einer bestimmten Zahl von Tagen abgeschlossen ist. Und er nennt keine Mandanten, keine Volumina und keine Beispiele aus der Praxis, weil diese Website keine solchen Nachweise führt.
+Die Grundzüge der deutschen Stiftung stehen auf der Seite Familienstiftung. Der Weg von der ersten Frage bis zur laufenden Verwaltung steht unter Ablauf.
+
+## Tabelle
+
+- Rechtsnatur. Familienstiftung: Rechtsfähige Stiftung bürgerlichen Rechts. Sie entsteht durch Stiftungsgeschäft und Anerkennung der zuständigen Landesbehörde. Trust und Wyoming-LLC: Ein Trust nach dem Recht seiner Errichtung und eine Limited Liability Company nach dem Wyoming Limited Liability Company Act. Beides sind keine deutschen Rechtsformen.
+- Vermögen. Familienstiftung: Das gewidmete Vermögen ist vom Privatvermögen der stiftenden Person getrennt und an den Stiftungszweck gebunden. Trust und Wyoming-LLC: Die LLC kann Vermögenswerte halten. Die Mitgliedschaft kann einem Trust zugeordnet sein, dessen Urkunde die Regeln für die Familie trägt.
+- Steuerung. Familienstiftung: Satzung, Vorstand als Pflichtorgan und weitere Organe, soweit die Satzung sie vorsieht. Trust und Wyoming-LLC: Trust Deed, Trustee und häufig ein Protector. Daneben Operating Agreement und Manager der LLC. Eigentum und Geschäftsführung lassen sich trennen.
+- Aufsicht. Familienstiftung: Stiftungsaufsicht der zuständigen Behörde des Sitzlandes. Trust und Wyoming-LLC: Keine deutsche Stiftungsaufsicht. Maßgeblich sind das Trust-Recht und das Gesellschaftsrecht von Wyoming, dazu die Pflichten gegenüber Banken und Behörden.
+- Familie. Familienstiftung: Begünstigte (Destinatäre) folgen aus der Satzung. Sie sind nicht Gesellschafter und haben kein Eigentum am Stiftungsvermögen. Trust und Wyoming-LLC: Begünstigte folgen aus dem Trust Deed. Der Vermögensstock muss nicht im Wege der gesetzlichen Erbfolge auf einzelne Personen übergehen.
+- Änderungen. Familienstiftung: Zweck und Verfassung sind gesetzlich eng gebunden. Eine Stiftung ist auf Dauer angelegt. Trust und Wyoming-LLC: Was sich ändern lässt, steht im Trust Deed und im anwendbaren Recht. Das ist nicht pauschal flexibler oder starrer als eine Satzung.
+- Öffentlichkeit. Familienstiftung: Welche Angaben zu Satzung und Organen zugänglich sind, hängt vom Sitzland ab. Eine Stiftung ist kein anonymes Gebilde. Trust und Wyoming-LLC: Die öffentliche Gründungsurkunde einer Wyoming-LLC muss die Gesellschafter nicht namentlich nennen. Das ist Registervertraulichkeit, keine Unsichtbarkeit gegenüber Banken, Gerichten oder Finanzbehörden.
+- Laufende Kosten. Familienstiftung: Gründung, ausreichendes Vermögen, Verwaltung und Umgang mit der Aufsicht. Eine Pauschale nennt diese Website nicht. Trust und Wyoming-LLC: Staatliche Jahresgebühr der LLC ab dem gesetzlichen Mindestbetrag von 60 US-Dollar, dazu Registered Agent, Trustee und Beratung. Weitere Beträge sind individuell.
+- Steuern. Familienstiftung: Immer individuell. Bei Familienstiftungen ist unter anderem die Erbersatzsteuer zu prüfen. Diese Website rechnet nichts vor. Trust und Wyoming-LLC: Immer individuell. Ein ausländischer Trust und eine US-Gesellschaft beenden keine Steuerpflicht im Wohnsitzstaat. Eine Entlastung wird nicht versprochen.
+- Wann sie passt. Familienstiftung: Wenn deutsches Stiftungsrecht, staatliche Aufsicht und ein auf Dauer gewidmeter Zweck gewollt sind. Trust und Wyoming-LLC: Wenn Vermögensschutz, Nachfolge, Zusammenhalt und Governance in einem Trust und einer US-LLC abgebildet werden sollen und die Fachleute der Familie das tragen.
+
+# Wie eine Gründung abläuft
+
+URL: https://www.ihre-familienstiftung.de/ablauf
+
+Eine Struktur entsteht in einer festen Reihenfolge. Zuerst die Ziele der Familie, dann die Prüfung durch Fachleute, dann Urkunden, und erst am Ende die Übertragung von Vermögen.
+
+## Sechs Schritte
+
+Die Reihenfolge ist die Sache. Eine Dauer in Tagen oder Wochen nennt diese Website nicht. Sie hinge von Unterlagen, Behörden, Banken und davon ab, wie schnell die Familie Entscheidungen trifft.
+
+- Orientierung. Sie lesen diese Seiten oder schreiben über das Formular. Es geht um Ziele, nicht um Kontonummern. Unterlagen gehören nicht in die erste Nachricht.
+- Zielbild. Familie, Vermögensarten und die Frage, wer künftig entscheiden und wer begünstigt sein soll. PAN21 (Harald Linhart) ordnet das Gespräch. Es ist noch keine Beratung im Mandat eines Anwalts oder Steuerberaters.
+- Fachprüfung. Zugelassene Berater im Wohnsitzstaat und, soweit nötig, in den Vereinigten Staaten prüfen Recht, Steuer, Verträge und ob eine Übertragung einzelner Werte überhaupt zulässig ist.
+- Entwurf. Trust Deed, gegebenenfalls die Rolle eines Protectors, und das Operating Agreement der LLC entstehen bei den Stellen, die dafür beruflich zuständig sind. Die Familie liest die Regeln, bevor etwas unterschrieben wird.
+- Errichtung und Übertragung. Die Wyoming-LLC wird gegründet, der Trust errichtet, und Vermögen wird erst übertragen, wenn die Fachleute die Reihenfolge freigeben. Eine Übertragung gegen bekannte Gläubiger ist nicht Teil dieses Ablaufs.
+- Laufende Ordnung. Berichte, Zustimmungen, das Family Office und die Pflege der Formalien. Eine Struktur, die niemand führt, bildet Governance nur auf dem Papier ab.
+
+## Wer welche Rolle hat
+
+PAN21 führt die Orientierung und hält das Vorhaben beisammen. Der Trustee verwaltet nach der Urkunde. Der Manager führt die Gesellschaft nach dem Operating Agreement. Rechtsanwälte und Steuerberater bleiben für ihr jeweiliges Berufsrecht zuständig. Diese Website und ein Kontaktformular üben keine dieser Berufe aus.
+Die Familie bleibt Auftraggeberin. Sie sollte Regeln verstehen, die sie in Kraft setzt. Eine Urkunde, die nur Berater gelesen haben, trägt nicht, sobald die erste uneinige Generation am Tisch sitzt.
+
+## Was am Anfang nicht nötig ist
+
+Für die erste Nachricht genügen Name, eine erreichbare Adresse und die Frage, die Sie beschäftigt. Keine Steuer-IDs, keine Kontoauszüge, keine Gesellschaftsverträge. Solche Unterlagen gehören in einen geschützten Austausch, nachdem klar ist, wer sie warum braucht.
+Wenn Sie schreiben, wählen Sie im Formular das Interesse, das am nächsten liegt: Familienstiftung, Lighthouse Trust, Wyoming LLC, Family Office oder Sonstiges. Die Nachricht geht an familienstiftung@pan21.com.
+
+# Häufige Fragen
+
+## Was ist eine Familienstiftung?
+
+Im deutschen Recht ist eine Familienstiftung eine rechtsfähige Stiftung, deren Zweck wesentlich auf eine Familie ausgerichtet ist. Sie entsteht durch Stiftungsgeschäft und Anerkennung der zuständigen Landesbehörde. Das gewidmete Vermögen gehört der Stiftung, nicht den einzelnen Familienmitgliedern. Begünstigte folgen aus der Satzung. Die Grundzüge stehen auf der Seite Familienstiftung.
+
+## Ist ein Trust dasselbe wie eine deutsche Familienstiftung?
+
+Nein. Ein Trust ist ein Institut des Common Law. Der Trustee hält das Vermögen nach einer Urkunde für die Begünstigten. Eine deutsche Stiftung ist eine juristische Person mit Anerkennung und Stiftungsaufsicht. Die Ziele können sich ähneln: Vermögen beisammenhalten, Regeln für die Familie setzen, Nachfolge ordnen. Die Rechtsfolgen sind nicht dieselben. Ob ein ausländischer Trust in Deutschland anerkannt und wie er steuerlich eingeordnet wird, ist eine Frage für die Fachleute der Familie.
+
+## Was ist ein Lighthouse Trust?
+
+Lighthouse Trust ist keine gesetzlich definierte Rechtsform. Gemeint ist die internationale Trust-Praxis dieses Namens, die ihre Arbeit öffentlich unter lighthouse-trust.com beschreibt, einschließlich einer Präsenz in Wyoming. In der hier erklärten Kombination trägt der Trust die Regeln für Begünstigte, Entscheidungen und Nachfolge, während eine Wyoming-LLC Vermögenswerte halten kann. Einzelheiten stehen auf der Seite Lighthouse Trust.
+
+## Warum wird Wyoming genannt?
+
+Wyoming hat 1977 das erste LLC-Gesetz der Vereinigten Staaten erlassen. Das geltende Gesetz behandelt die Charging Order als ausschließlichen Rechtsbehelf eines Urteilgläubigers gegen den Anteil eines Gesellschafters, auch beim einzigen Gesellschafter (W.S. 17-29-503). Die öffentliche Gründungsurkunde muss die Gesellschafter nicht namentlich nennen. Die staatliche Jahresgebühr beginnt bei 60 US-Dollar (W.S. 17-29-209). Das sind Eigenschaften des Gesellschaftsrechts, kein Versprechen von Anonymität oder Gläubigerschutz in jedem Fall.
+
+## Schützt die Struktur vor allen Gläubigern?
+
+Nein. Eine Charging Order begrenzt im Recht von Wyoming, wie ein Urteilgläubiger auf den Gesellschaftsanteil zugreift. Sie setzt Bundesinsolvenzrecht, Steuerpfandrechte, strafrechtliche Einziehung und die Anfechtung unredlicher Übertragungen nicht außer Kraft. Wer die Gesellschaft wie ein privates Konto führt, riskiert, dass Gerichte die Trennung nicht anerkennen. Vermögensschutzplanung richtet sich auf künftige, noch nicht bekannte Risiken. Sie ist kein Mittel gegen eine bereits bestehende Forderung.
+
+## Ist das ein Weg, Steuern zu vermeiden oder zu hinterziehen?
+
+Nein. Diese Website erklärt keine Gestaltungen zur Steuervermeidung und schon gar nicht zur Steuerhinterziehung. Einkommen, Schenkung, Erbschaft und laufende Pflichten können im Wohnsitzstaat bestehen bleiben. Welche Erklärungspflichten gelten, sagen Steuerberater und die zuständigen Behörden, nicht diese Seiten.
+
+## Was hat es mit der Erbersatzsteuer auf sich?
+
+Bei einer Familienstiftung sieht das deutsche Erbschaftsteuerrecht eine wiederkehrende Besteuerung in Abständen von 30 Jahren vor, die sogenannte Erbersatzsteuer (§ 1 Abs. 1 Nr. 4 Erbschaftsteuer- und Schenkungsteuergesetz). Ob und wie ein ausländischer Trust davon oder von anderen Vorschriften erfasst wird, beantwortet diese Website nicht. Das ist individuelle Steuerberatung.
+
+## Für wen ist das Gespräch gedacht?
+
+Für Family Offices, vermögende Familien und Unternehmerinnen und Unternehmer, die Vermögensschutz, Nachfolge, den Zusammenhalt des Familienvermögens und eine klare Governance prüfen. Die Seite Family Office beschreibt die Rolle einer solchen Organisation. Ein Gespräch ersetzt nicht die Prüfung, ob die Struktur passt.
+
+## Für wen ist die Struktur nicht gedacht?
+
+Nicht für Menschen, die eine bekannte Forderung, ein laufendes Verfahren oder eine Steuerpflicht abwehren wollen. Übertragungen in der Krise können anfechtbar sein. Nicht gedacht ist sie auch als Ersatz für eine fehlende Altersvorsorge oder als fertiges Produkt ohne Prüfung des Einzelfalls.
+
+## Ersetzt diese Website eine Beratung?
+
+Nein. Sie bietet allgemeine Informationen, Stand der Bearbeitung 13. November 2026. Gesetze und Behördenpraxis ändern sich. Verbindlich sind die Texte der Gesetze, die Entscheidungen der zuständigen Stellen und die Beratung zugelassener Rechtsanwälte und Steuerberater in den betroffenen Ländern.
+
+## Wie läuft eine Zusammenarbeit ab?
+
+Zuerst ein Gespräch über Ziele, Familie und den Rahmen des Vermögens. Danach prüfen Fachleute Recht und Steuer. Erst dann werden Urkunde und Gesellschaftsvertrag entworfen, Gesellschaft und Trust errichtet und Vermögen übertragen. Den Ablauf beschreibt die Seite Ablauf. Eine Dauer in Tagen nennt diese Website nicht, weil sie vom Einzelfall abhängt.
+
+## Was kostet die Struktur?
+
+Eine Gesamtsumme wird hier nicht genannt, weil sie nicht seriös pauschalierbar ist. Für die Wyoming-LLC ist die staatliche Jahresgebühr gesetzlich beschrieben: 60 US-Dollar oder 0,0002 US-Dollar je Dollar des in Wyoming belegenen Vermögens, je nachdem, welcher Betrag höher ist. Registered Agent, Trustee, Gründung und laufende Beratung kommen hinzu und werden einzeln vereinbart.
+
+## Bleibt die Familie anonym?
+
+Nein, nicht in dem Sinne, den das Wort oft verspricht. Im öffentlichen Gründungsregister von Wyoming stehen die Namen der Gesellschafter typischerweise nicht. Banken prüfen die wirtschaftlich berechtigten Personen, Gerichte können Auskunft verlangen, und Finanzbehörden haben eigene Meldewege. Registervertraulichkeit und Unsichtbarkeit sind zweierlei.
+
+## Kann ein Unternehmen Teil der Struktur sein?
+
+Grundsätzlich kann eine Gesellschaft Anteile an einem Unternehmen halten. Ob das bei einem konkreten Unternehmen, seinen Verträgen, seinen Mitgesellschaftern und seinem Sitz zulässig und sinnvoll ist, entscheiden die Fachleute anhand der Unterlagen. Diese Website beschreibt den Gedanken, nicht den Übertragungsvorgang.
+
+## Wer betreibt diese Website?
+
+Das Informationsangebot wird von PAN21 (Harald Linhart) betrieben. Anschrift, Register und die weiteren Pflichtangaben des Impressums werden noch eingetragen. Bis dahin steht auf Impressum ein deutlich markierter Hinweis. Anfragen über das Formular gehen an familienstiftung@pan21.com.
+
+## Was passiert mit den Angaben im Formular?
+
+Name, E-Mail, optionale Telefonnummer, Interesse und Nachricht werden serverseitig geprüft und bei einer echten Anfrage per E-Mail über den Dienst Resend an familienstiftung@pan21.com gesendet. Die Antwortadresse ist die Adresse der absendenden Person. Erkannter Spam löst keine E-Mail aus. Die Seite Datenschutz beschreibt den Stand und markiert, welche Angaben des Verantwortlichen noch fehlen.
+
+## Wird Deutschland einen ausländischen Trust ohne Weiteres anerkennen?
+
+Damit ist nicht zu rechnen. Deutschland ist nicht Vertragsstaat des Haager Übereinkommens über das auf Trusts anzuwendende Recht und über ihre Anerkennung. Welche Wirkungen ein Trust hier entfaltet, hängt vom Einzelfall ab. Das ist ein Grund, die Struktur vor jeder Übertragung rechtlich prüfen zu lassen, und kein Argument gegen oder für sie im Allgemeinen.

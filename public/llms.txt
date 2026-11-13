@@ -1,0 +1,21 @@
+# Ihre Familienstiftung
+
+> Sachliche Informationen von PAN21 (Harald Linhart) für Family Offices, vermögende Familien und Unternehmer. Die Ziele einer Familienstiftung, nämlich Vermögensschutz, Nachfolge, Zusammenhalt des Familienvermögens und Governance, lassen sich mit einem Lighthouse Trust und einer Wyoming-LLC abbilden. Keine Rechts- oder Steuerberatung, kein Angebot zur Steuervermeidung oder Steuerhinterziehung.
+
+Kanonische Adresse: https://www.ihre-familienstiftung.de
+Sprache: Deutsch
+Stand: 13. November 2026
+
+## Seiten
+- [Familienstiftung](https://www.ihre-familienstiftung.de/familienstiftung): Grundzüge der deutschen Familienstiftung: Anerkennung, Satzung, Organe, Vermögenstrennung und die Ziele Vermögensschutz, Nachfolge und Governance.
+- [Lighthouse Trust](https://www.ihre-familienstiftung.de/lighthouse-trust): Allgemeine Erklärung des Trusts und der Praxis Lighthouse Trust: Trustee, Begünstigte, Protector und das Zusammenspiel mit einer Wyoming-LLC.
+- [Wyoming LLC](https://www.ihre-familienstiftung.de/wyoming-llc): Sachliche Einordnung der Wyoming-LLC: Charging Order nach W.S. 17-29-503, Registervertraulichkeit und die gesetzliche Jahresgebühr. Keine Steuerberatung.
+- [Family Office](https://www.ihre-familienstiftung.de/family-office): Single und Multi Family Office: Aufgaben, Abgrenzung zur Stiftung und zum Trust, und für wen ein Gespräch mit PAN21 gedacht ist.
+- [Vergleich](https://www.ihre-familienstiftung.de/vergleich): Sachlicher Vergleich: deutsche Familienstiftung neben Lighthouse Trust und Wyoming-LLC. Governance, Aufsicht, Kostenrahmen und Steuern ohne Versprechen.
+- [Ablauf](https://www.ihre-familienstiftung.de/ablauf): Ablauf von der Orientierung bis zur laufenden Governance: Gespräch, Fachprüfung, Urkunde, Wyoming-LLC und Übertragung. Ohne Zeit- und Steuerversprechen.
+- [Häufige Fragen](https://www.ihre-familienstiftung.de/faq): Ausführliche Antworten zu Stiftung, Trust, Wyoming-LLC, Kosten, Schutz und Beratung.
+- [Kontakt](https://www.ihre-familienstiftung.de/kontakt): Formular an familienstiftung@pan21.com. Keine Unterlagen in der ersten Nachricht.
+- [Impressum](https://www.ihre-familienstiftung.de/impressum): Platzhalter. Pflichtangaben von PAN21 sind noch einzutragen.
+- [Datenschutz](https://www.ihre-familienstiftung.de/datenschutz): Platzhalter zum Kontaktformular. Verantwortlicher und Fristen sind noch einzutragen.
+
+Ausführliche Fassung: /llms-full.txt
