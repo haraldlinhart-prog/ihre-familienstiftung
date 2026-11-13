@@ -45,6 +45,10 @@ Echte Fehler bleiben sichtbar: fehlende Pflichtfelder, abgelaufenes Formular (ä
 
 Impressum und Datenschutz sind Platzhalter mit markiertem TODO. Es sind keine Anschriften erfunden.
 
+## Google Analytics
+
+Auf jeder Seite lädt gtag.js die Mess-ID `G-GN3HXD8XL1`. Consent Mode v2 setzt analytics_storage, ad_storage, ad_user_data und ad_personalization zuerst auf denied. Der Banner speichert „Akzeptieren“ oder „Ablehnen“ im localStorage. Ablehnen löscht Cookies, deren Name `_ga` ist oder mit `_ga_` beginnt. Der Fuß bietet „Cookie-Einstellungen“, um die Wahl zu ändern.
+
 ## Deployment
 
 Für Vercel aus diesem Repository. Framework Next.js, Build `npm run build`. Kanonische Adresse: `https://www.ihre-familienstiftung.de`.

@@ -21,7 +21,11 @@ export function buildLlmsTxt(): string {
     linkLine('Häufige Fragen', '/faq', 'Ausführliche Antworten zu Stiftung, Trust, Wyoming-LLC, Kosten, Schutz und Beratung.'),
     linkLine('Kontakt', '/kontakt', 'Formular an familienstiftung@pan21.com. Keine Unterlagen in der ersten Nachricht.'),
     linkLine('Impressum', '/impressum', 'Platzhalter. Pflichtangaben von PAN21 sind noch einzutragen.'),
-    linkLine('Datenschutz', '/datenschutz', 'Platzhalter zum Kontaktformular. Verantwortlicher und Fristen sind noch einzutragen.'),
+    linkLine(
+      'Datenschutz',
+      '/datenschutz',
+      'Platzhalter zum Kontaktformular und zu Google Analytics 4 mit Consent Mode. Verantwortlicher und Fristen sind noch einzutragen.',
+    ),
     '',
     'Ausführliche Fassung: /llms-full.txt',
     '',

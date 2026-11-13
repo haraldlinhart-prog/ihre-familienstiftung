@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { CookieSettingsLink } from '@/components/CookieSettingsLink';
 import { footerNav } from '@/lib/nav';
 import { CONTACT_EMAIL } from '@/lib/site';
 
@@ -35,6 +36,7 @@ export function Footer() {
       </div>
       <div className="wrap footer-base">
         <p>© {new Date().getFullYear()} PAN21. Alle Rechte vorbehalten.</p>
+        <CookieSettingsLink />
       </div>
     </footer>
   );

@@ -2,13 +2,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { JsonLd } from '@/components/JsonLd';
+import { GA_MEASUREMENT_ID } from '@/lib/consent';
 import { breadcrumbJsonLd, pageMetadata } from '@/lib/seo';
 import { CONTACT_EMAIL } from '@/lib/site';
 
 export const metadata: Metadata = pageMetadata({
   title: 'Datenschutz',
   description:
-    'Hinweise zum Kontaktformular von ihre-familienstiftung.de. Verantwortlicher, Fristen und Rechtsgrundlagen werden noch ergänzt.',
+    'Hinweise zum Kontaktformular und zu Google Analytics 4. Verantwortlicher, Fristen und Rechtsgrundlagen werden noch ergänzt.',
   path: '/datenschutz',
 });
 
@@ -42,16 +43,54 @@ export default function DatenschutzPage() {
               <li>Kontaktdaten und, falls benannt, die oder der Datenschutzbeauftragte</li>
               <li>Rechtsgrundlage der Verarbeitung je Zweck</li>
               <li>Speicherdauer der E-Mails und der Postfach-Protokolle</li>
-              <li>Empfänger und Auftragsverarbeiter einschließlich des Vertrags mit Resend und des Hostings bei Vercel</li>
-              <li>Hinweis auf Drittlandtransfer, soweit der E-Mail-Dienst ihn bewirkt, samt Garantien</li>
+              <li>Empfänger und Auftragsverarbeiter, einschließlich Resend, Vercel und Google Analytics 4</li>
+              <li>Speicherdauer der Analysedaten und Hinweis auf einen Drittlandtransfer, samt Garantien</li>
               <li>Rechte der betroffenen Personen und das Beschwerderecht bei einer Aufsichtsbehörde</li>
             </ul>
           </div>
           <h2>Welche Seiten welche Daten sehen</h2>
           <p>
-            Die Informationsseiten setzen nach derzeitigem Stand keine eigenen Analysewerkzeuge und
-            keine eigenen Tracking-Cookies. Beim Aufruf verarbeitet der Hoster die üblichen
-            Verbindungsdaten, die ein Webserver braucht, um die Seite auszuliefern.
+            Beim Aufruf verarbeitet der Hoster die üblichen Verbindungsdaten, die ein Webserver
+            braucht, um die Seite auszuliefern. Ein Analysewerkzeug läuft zusätzlich, wie der
+            folgende Abschnitt beschreibt. Analyse-Cookies setzt es erst nach Einwilligung.
+          </p>
+          <h2>Google Analytics 4</h2>
+          <p>
+            Auf allen Seiten ist Google Analytics 4 eingebunden, Mess-ID {GA_MEASUREMENT_ID}. Das
+            Tag von Google, gtag.js, steht im Kopf jeder Seite. Bevor Sie wählen, und solange Sie
+            ablehnen, gilt Google Consent Mode in der Version 2. Dabei stehen analytics_storage,
+            ad_storage, ad_user_data und ad_personalization auf denied.
+          </p>
+          <p>
+            Am unteren Rand können Sie „Ablehnen“ oder „Akzeptieren“ wählen. Die Entscheidung wird
+            in diesem Browser im localStorage gespeichert, nicht in einem eigenen Cookie. Über den
+            Link „Cookie-Einstellungen“ im Fuß der Seite können Sie sie später ändern.
+          </p>
+          <p>
+            Akzeptieren setzt die vier Speicherarten auf granted. Ablehnen setzt sie auf denied und
+            löscht vorhandene Cookies, deren Name _ga ist oder mit _ga_ beginnt.
+          </p>
+          <p>
+            Consent Mode kann auch ohne Cookies eingeschränkte Nutzungsdaten an Google übermitteln.
+            Dass das Tag geladen wird, ist deshalb keine Zusage, dass vor der Einwilligung keine
+            Verbindung zu Google entsteht. Rechtsgrundlage, Speicherdauer, der Vertrag zur
+            Auftragsverarbeitung und ein etwaiger Transfer in Drittländer sind noch einzutragen.
+          </p>
+          <p>
+            Google beschreibt den Dienst in der{' '}
+            <a href="https://policies.google.com/privacy?hl=de" rel="noopener noreferrer">
+              Datenschutzerklärung von Google
+              <span className="external"> (extern)</span>
+            </a>{' '}
+            und Consent Mode in der{' '}
+            <a
+              href="https://developers.google.com/tag-platform/security/guides/consent?hl=de"
+              rel="noopener noreferrer"
+            >
+              Entwicklerdokumentation
+              <span className="external"> (extern)</span>
+            </a>
+            .
           </p>
           <h2>Kontaktformular</h2>
           <p>

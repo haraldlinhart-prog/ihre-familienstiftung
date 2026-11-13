@@ -1,9 +1,11 @@
 import type { Metadata, Viewport } from 'next';
 import type { ReactNode } from 'react';
 import { Manrope, Newsreader } from 'next/font/google';
+import { CookieBanner } from '@/components/CookieBanner';
 import { Footer } from '@/components/Footer';
 import { Header } from '@/components/Header';
 import { JsonLd } from '@/components/JsonLd';
+import { consentBootstrapScript } from '@/lib/consent';
 import { organizationJsonLd, websiteJsonLd } from '@/lib/seo';
 import { SITE_NAME, SITE_URL } from '@/lib/site';
 import './globals.css';
@@ -51,6 +53,9 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="de" className={`${display.variable} ${sans.variable}`}>
+      <head>
+        <script id="ga-consent" dangerouslySetInnerHTML={{ __html: consentBootstrapScript() }} />
+      </head>
       <body>
         <JsonLd data={organizationJsonLd()} />
         <JsonLd data={websiteJsonLd()} />
@@ -60,6 +65,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <Header />
         <main id="inhalt">{children}</main>
         <Footer />
+        <CookieBanner />
       </body>
     </html>
   );

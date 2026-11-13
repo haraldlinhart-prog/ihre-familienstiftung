@@ -16,6 +16,6 @@ Stand: 13. November 2026
 - [Häufige Fragen](https://www.ihre-familienstiftung.de/faq): Ausführliche Antworten zu Stiftung, Trust, Wyoming-LLC, Kosten, Schutz und Beratung.
 - [Kontakt](https://www.ihre-familienstiftung.de/kontakt): Formular an familienstiftung@pan21.com. Keine Unterlagen in der ersten Nachricht.
 - [Impressum](https://www.ihre-familienstiftung.de/impressum): Platzhalter. Pflichtangaben von PAN21 sind noch einzutragen.
-- [Datenschutz](https://www.ihre-familienstiftung.de/datenschutz): Platzhalter zum Kontaktformular. Verantwortlicher und Fristen sind noch einzutragen.
+- [Datenschutz](https://www.ihre-familienstiftung.de/datenschutz): Platzhalter zum Kontaktformular und zu Google Analytics 4 mit Consent Mode. Verantwortlicher und Fristen sind noch einzutragen.
 
 Ausführliche Fassung: /llms-full.txt
