@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { primaryNav } from '@/lib/nav';
+import SuchmaschinenBlogLink from './SuchmaschinenBlogLink';
 
 export function Header() {
   return (
@@ -25,6 +26,8 @@ export function Header() {
           <Link className="button button-small" href="/kontakt">
             Gespräch anfragen
           </Link>
+          {/* suchmaschinen.pro:blog-link */}
+          <SuchmaschinenBlogLink />
         </nav>
         <details className="mobile-nav">
           <summary>Menü</summary>
